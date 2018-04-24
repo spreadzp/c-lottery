@@ -1,8 +1,8 @@
 
-## Install on PC globally:
+## For start the project:
 
 1. `npm install -g truffle`
-2. Clone the project `git clone `
+2. Clone the project `git clone https://github.com/spreadzp/c-lottery.git`
 3. `cd crypto-lottery`
 4. `npm i`
 5. `truffle develop`
